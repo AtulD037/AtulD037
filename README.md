@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AtulD037
-- 👀 I’m interested in Full stack development(MERN)
+- 👀 I’m interested in Software Development.
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me :
-   e-mail : atul.fullstackdeveloper@gmail.com
    e-mail : er.atuldhimanelectronics@gmail.com
 
 <!---
